@@ -1,0 +1,9 @@
+# Request
+sensor_msgs/Image rgb_image
+sensor_msgs/Image depth_image
+---
+# Response
+float64[] translation
+float64[] rotation_matrix
+float64 score
+bool success 

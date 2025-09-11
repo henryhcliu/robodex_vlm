@@ -1,0 +1,14 @@
+{
+    "version": "3.1.0",
+    "feature_id": "8745551909375712686",
+    "public_key": "PengfeiMai.public_key",
+    "signature": "PengfeiMai.signature",
+    "license": "PengfeiMai.lic",
+    "toolbox": [
+        {
+            "name": "Basic",
+            "type": "PERMANENT",
+            "data": ""
+        }
+    ]
+}
